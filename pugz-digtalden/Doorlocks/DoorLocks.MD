@@ -1,0 +1,1 @@
+add DigtalDenMainDoor.lua to ur qb-doorlock configs file
