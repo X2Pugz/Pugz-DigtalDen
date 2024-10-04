@@ -5,7 +5,9 @@ while this script is free please do not claim this as ur own
 
 this aslo comes with the door lock files if ur using qb-doorlock and also comes with the snippets on where and how to add the boss menu 
 
-discord for support coming soon 
+join my discord for support 
+
+https://discord.gg/RtkXARJW
 
 as always
 
