@@ -12,3 +12,11 @@ https://discord.gg/RtkXARJW
 as always
 
 thanks-- pugz :)
+
+V1.0 Vending Machine Update
+
+just a small update but there is now a vending machine update for this script which is just outside of digtal den
+players can go up to the vending machine using qb-target to interact and get items from there the requird item to be able to get these items is a id_card make sure players have this before going up to vending machine
+
+love
+pugz :)
