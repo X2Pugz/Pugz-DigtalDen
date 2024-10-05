@@ -13,10 +13,12 @@ as always
 
 thanks-- pugz :)
 
-V1.0 Vending Machine Update
+V1.0 Vending Machine Update/npc spawning
 
 just a small update but there is now a vending machine update for this script which is just outside of digtal den
 players can go up to the vending machine using qb-target to interact and get items from there the requird item to be able to get these items is a id_card make sure players have this before going up to vending machine
+
+with this update npcs can now be spawned if u would like to use them get the vector 3 cords of where u would like them and paste it in the config.lua then all u gotta do is change the event to one u would like it to trigger
 
 love
 pugz :)
